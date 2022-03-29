@@ -1,4 +1,5 @@
---extra-index-url https://download.pytorch.org/whl/torch_stable.html https://torch.kmtea.eu/whl/stable.html
+--extra-index-url https://download.pytorch.org/whl/torch_stable.html
+--extra-index-url https://torch.kmtea.eu/whl/stable.html
 pyaudio
 torch==1.8.0
 torchaudio==0.8.0
