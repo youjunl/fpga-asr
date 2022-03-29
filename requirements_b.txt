@@ -1,0 +1,2 @@
+-i https://torch.kmtea.eu/whl/stable.html
+torchaudio==0.8.0
