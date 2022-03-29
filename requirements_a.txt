@@ -1,4 +1,4 @@
---extra-index-url https://torch.kmtea.eu/whl/stable.html
+--extra-index-url https://download.pytorch.org/whl/torch_stable.html
 pyaudio
 torch==1.8.0
 numpy==1.20.1
