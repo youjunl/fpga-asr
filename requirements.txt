@@ -1,9 +1,9 @@
 pyaudio
 torch==1.8.0
-#torchaudio==0.8.0
+torchaudio==0.8.0 --extra-index-url https://torch.kmtea.eu/whl/stable.html
 numpy==1.20.1
 inflect
 unidecode
-librosa
+librosa==0.8.1
 torch_stft
 onnxruntime
