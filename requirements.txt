@@ -1,6 +1,8 @@
 pyaudio
-torch==1.8.2
-torchaudio==0.8.2
+--extra-index-url https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu
+--extra-index-url https://download.pytorch.org/whl/torch_stable.html
+torchaudio==0.8.1
 numpy==1.20.1
 inflect
 unidecode
