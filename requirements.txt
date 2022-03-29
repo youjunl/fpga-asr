@@ -1,7 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/torch_stable.html https://torch.kmtea.eu/whl/stable.html
 pyaudio
---extra-index-url https://download.pytorch.org/whl/torch_stable.html
 torch==1.8.0
---extra-index-url https://torch.kmtea.eu/whl/stable.html
 torchaudio==0.8.0
 numpy==1.20.1
 inflect
