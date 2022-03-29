@@ -1,7 +1,6 @@
 --extra-index-url https://torch.kmtea.eu/whl/stable.html
 pyaudio
 torch==1.8.0
-torchaudio==0.8.0
 numpy==1.20.1
 inflect
 unidecode
